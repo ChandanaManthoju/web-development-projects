@@ -1,3 +1,4 @@
+
 # A LIST OF QUESTIONS STORED IN VARIABLE
 questions= ["what is my favourite color",
             "what is my favoute food",
